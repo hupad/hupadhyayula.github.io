@@ -25,11 +25,11 @@ p {
 }
 
 .my-text-color p{
-	color: #fff;
+	/*color: #fff;*/
 }
 
 .my-text-color h1{
-	color: #fff;
+	/*color: #fff;*/
 	text-decoration: underline;
 	margin-bottom: 40px;
 }
@@ -45,5 +45,5 @@ a {
 
 .jumbotron{
 
-	background-color: #3acec2;
+	/*background-color: #e15258;*/
 }
