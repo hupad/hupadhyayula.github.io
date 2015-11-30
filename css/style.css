@@ -43,7 +43,23 @@ a {
 	text-decoration: none;
 }
 
-.jumbotron{
+.main-img{
 
-	/*background-color: #e15258;*/
+	height: 1000px;
+	background-repeat: no-repeat;
+	background-image: url("https://drscdn.500px.org/photo/96786473/m%3D2048/9a51a726bdc778af31a32d25d0027afd");
+}
+
+.user-info{
+	padding-top: 100px; 
+	text-align: center;
+}
+
+.user-info h1{
+	color: #fff;
+	font-weight: bold;
+}
+
+.jumbotron{
+	margin-top: -30px;
 }
